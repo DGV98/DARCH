@@ -8,6 +8,7 @@ Install Arch Linux
 - 100 MB for boot loader
 - 4 GB swap space
 - The rest is disk space
+
 Install Ghostty
 Install Hyprland
 Install Waybar
