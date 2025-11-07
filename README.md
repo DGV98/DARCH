@@ -1,6 +1,7 @@
 # Darch Checklist 
 This is a document to list the steps needed to install arch and hyprland
-This is an opiniated build by me, and meant for experimentation of Arch Linux, Hyprland, and other building blocks of a Desktop Environment.
+This is an opiniated build by me, and meant for experimentation of Arch Linux, Hyprland, and other building blocks of a Desktop Environment (DE).
+This repository will also contain dotfiles meant to contain all my opinions on my preferred DE.
 
 [] Install Arch Linux
 - Set up arch with a GRUB as the boot loader
@@ -11,4 +12,5 @@ This is an opiniated build by me, and meant for experimentation of Arch Linux, H
 [] Install Hyprland
 [] Install Waybar
 [] Install Rofi
+- Haven't really decided on this, I will need to revisit this
 [] 
