@@ -13,9 +13,10 @@ Mostly following https://namishh.com/blog/ricing/
 - Set up arch with a GRUB as the boot loader
 
 ## Install Ghostty
-- No config
+- Set up padding to 16 px 
 
 ## Install Hyprland
+- Figure out how to disable cursor, without disabling scrolling or touchpad features.
 
 ## Install Waybar
 
@@ -26,4 +27,23 @@ Mostly following https://namishh.com/blog/ricing/
 - Currently, I have firefox, but I am exploring other browsers
 
 ## Aesthetics
-For the most part, I would like to be minimalist in my setup. This setup is specifically for getting to development as fast as possible with minimal distractions. 
+For the most part, I would like to be minimalist in my setup. 
+This setup is specifically for getting to develop as fast as possible with minimal distractions. 
+
+For colors, I plan on implementing something similar to OMARCHY where they create a selection of sensible wallpapers and color schemes.
+This will be at the end of my adventure with ricing. Planning an entire DE is time consuming.
+
+### Icons
+Options:
+
+- reversal
+- whitesur icon theme
+- phinger 
+-bibata
+
+### Wallpaper
+Add some sensible wallpapers, may go for a theme
+-swww
+
+### Install starship
+- configure starship
