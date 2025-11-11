@@ -5,6 +5,8 @@ This repository will also contain dotfiles meant to contain all my opinions on m
 This file also lives to document what I have learned as I progress through arch linux and ricing.
 Mostly following https://namishh.com/blog/ricing/
 
+## Inspo
+- https://github.com/namishh/crystal
 
 ## Install Arch Linux
 - 100 MB for boot loader
@@ -19,9 +21,10 @@ Mostly following https://namishh.com/blog/ricing/
 - Figure out how to disable cursor, without disabling scrolling or touchpad features.
 
 ## Install Waybar
+- This is in conjunction with ewww, or another widget app
 
-## Install Rofi
-- Haven't really decided on this, I will need to revisit this
+## Install Walker 
+- I'm not sure about this, but it seems like there are a lot of options with customizing this one.
 
 ## Install <browser>
 - Currently, I have firefox, but I am exploring other browsers
@@ -47,3 +50,11 @@ Add some sensible wallpapers, may go for a theme
 
 ### Install starship
 - configure starship
+
+### Widgets
+- Music widget (spotify)
+- Calendar widget (can switch between different calendars)
+- Wifi
+- Bluetooth
+- Diagnostics (RAM, disk, battery)
+- Brightness
