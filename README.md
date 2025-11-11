@@ -7,6 +7,11 @@ Mostly following https://namishh.com/blog/ricing/
 
 ## Inspo
 - https://github.com/namishh/crystal
+- https://github.com/namishh/crystal/tree/aura
+- 
+-
+-
+
 
 ## Install Arch Linux
 - 100 MB for boot loader
@@ -29,6 +34,23 @@ Mostly following https://namishh.com/blog/ricing/
 ## Install <browser>
 - Currently, I have firefox, but I am exploring other browsers
 
+## Notification Daemon
+- For notifications, I haven't figured out what I want to do with this since I don't use notifications often
+
+## Screen Sharing
+Not really sure what I need this for, but it says I need it if I want to screen share (thinking discord)
+- pipewire
+- wireplumber 
+- xdg-desktop-portal-hyprland
+
+## File Manager
+- yazi seems like a good choice
+- nautilus 
+
+## Wireless
+- nm-applet
+- blueberry
+blueberry
 ## Aesthetics
 For the most part, I would like to be minimalist in my setup. 
 This setup is specifically for getting to develop as fast as possible with minimal distractions. 
