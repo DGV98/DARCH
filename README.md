@@ -8,10 +8,7 @@ Mostly following https://namishh.com/blog/ricing/
 ## Inspo
 - https://github.com/namishh/crystal
 - https://github.com/namishh/crystal/tree/aura
-- 
--
--
-
+- https://www.reddit.com/r/unixporn/comments/1l5ll27/hyprland_i_3_quickshell/ 
 
 ## Install Arch Linux
 - 100 MB for boot loader
@@ -25,8 +22,8 @@ Mostly following https://namishh.com/blog/ricing/
 ## Install Hyprland
 - Figure out how to disable cursor, without disabling scrolling or touchpad features.
 
-## Install Waybar
-- This is in conjunction with ewww, or another widget app
+## Install Quick Shell 
+- After discovering that my favorite rice is with Quickshell, I don't want to use any of their dot files, but would like to create things from scratch using QS.
 
 ## Install Walker 
 - I'm not sure about this, but it seems like there are a lot of options with customizing this one.
