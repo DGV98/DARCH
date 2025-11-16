@@ -77,3 +77,6 @@ Add some sensible wallpapers, may go for a theme
 - Bluetooth
 - Diagnostics (RAM, disk, battery)
 - Brightness
+
+### Terminal
+- Starship for terminal aesthetics
