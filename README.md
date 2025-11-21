@@ -44,6 +44,10 @@ Not really sure what I need this for, but it says I need it if I want to screen 
 - yazi seems like a good choice
 - nautilus 
 
+## Hyprlock
+- Needs a config
+- This will be the lockscreen as soon as I startup the machine.
+
 ## Wireless
 - nm-applet
 - blueberry
