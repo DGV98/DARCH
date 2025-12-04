@@ -5,6 +5,13 @@ This repository will also contain dotfiles meant to contain all my opinions on m
 This file also lives to document what I have learned as I progress through arch linux and ricing.
 Mostly following https://namishh.com/blog/ricing/
 
+<u>TODO</u>
+- Figure out a way to source my dotfiles so that this is easily reproducible. 
+- Configure Hyprland for multiple monitors (managing workspaces)
+- Configure nvim with lsp's for python, markdown, html, typescript, javascript.
+- Configure nvim with plugin for viewing markdown (to preview this document)
+
+
 ## Inspo
 - https://github.com/namishh/crystal
 - https://github.com/namishh/crystal/tree/aura
@@ -17,7 +24,7 @@ Mostly following https://namishh.com/blog/ricing/
 - Set up arch with a GRUB as the boot loader
 
 ## Install Ghostty
-- Set up padding to 16 px 
+- TokyoNight theme was my preference
 
 ## Install Hyprland
 - Figure out how to disable cursor, without disabling scrolling or touchpad features.
@@ -41,6 +48,7 @@ Not really sure what I need this for, but it says I need it if I want to screen 
 - xdg-desktop-portal-hyprland
 
 ## File Manager
+- I no longer think this is necessary
 - yazi seems like a good choice
 - nautilus 
 
@@ -49,9 +57,11 @@ Not really sure what I need this for, but it says I need it if I want to screen 
 - This will be the lockscreen as soon as I startup the machine.
 
 ## Wireless
+- may make a qt wrapper for this
 - nm-applet
 - blueberry
-blueberry
+- blueberry
+
 ## Aesthetics
 For the most part, I would like to be minimalist in my setup. 
 This setup is specifically for getting to develop as fast as possible with minimal distractions. 
@@ -72,12 +82,15 @@ Add some sensible wallpapers, may go for a theme
 -swww
 
 ### Install starship
+Went with a basic configuration, using tokyo night, but I think exploring this a little more to live on the command line is probably best
 - configure starship
 
 ### Widgets
 - Music widget (spotify)
 - Calendar widget (can switch between different calendars)
+    - Would like to be able to have a sunsama experience for my different tasks
 - Wifi
+    - I do not know where to go here
 - Bluetooth
 - Diagnostics (RAM, disk, battery)
 - Brightness
