@@ -5,8 +5,9 @@ This repository will also contain dotfiles meant to contain all my opinions on m
 This file also lives to document what I have learned as I progress through arch linux and ricing.
 Mostly following https://namishh.com/blog/ricing/
 
-<u>TODO</u>
+<u>TODO/u>
 - Figure out a way to source my dotfiles so that this is easily reproducible. 
+    - I have no idea where to start with this
 - Configure Hyprland for multiple monitors (managing workspaces)
 - Configure nvim with lsp's for python, markdown, html, typescript, javascript.
 - Configure nvim with plugin for viewing markdown (to preview this document)
