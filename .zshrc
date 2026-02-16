@@ -2,6 +2,8 @@
 HISTFILE=~/.histfile
 HISTSIZE=1000
 SAVEHIST=1000
+alias ls='ls --color=auto'
+alias grep='grep --color=auto'
 eval "$(starship init zsh)"
 export STARSHIP_CONFIG=~/.config/starship/starship.toml
 # End of lines configured by zsh-newuser-install
